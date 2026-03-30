@@ -23,7 +23,7 @@
                         ,-'                       
 ```
 
-# Tony Bolivar
+# Anthony Bolivar
 
 CS at Colgate. First-gen from Texas. I like building things.
 
