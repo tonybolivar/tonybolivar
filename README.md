@@ -1,16 +1,41 @@
-## Hi there 👋
+```
+                            ;\                    
+                            |' \                  
+         _                  ; : ;                 tony@github -----------------------------------------
+        / `-.              /: : |                   OS: ..................... Colgate University
+       |  ,-.`-.          ,': : |                   Uptime: ................. 20 years
+       \  :  `. `.       ,'-. : |                   Major: .................. Computer Science
+        \ ;    ;  `-.__,'    `-.|                   Focus: .................. ML, RL, Reverse Engineering
+         \ ;   ;  :::  ,::'`:.  `.                
+          \ `-. :  `    :.    `.  \                 Languages.Code: ......... Python, C++, TypeScript
+           \   \    ,   ;   ,:    (\                Languages.Human: ........ English, Spanish, Japanese, Korean
+            \   :., :.    ,'o)): ` `-.            
+           ,/,' ;' ,::"'`.`---'   `.  `-._          Projects.Main: .......... EU4-Haven (RL agent for EU4)
+         ,/  :  ; '"      `;'          ,--`.        Projects.Startup: ....... Raider Marketplace
+        ;/   :; ;             ,:'     (   ,:)       Projects.Fun: ........... Shapes & States
+          ,.,:.    ; ,:.,  ,-._ `.     \""'/      
+          '::'     `:'`  ,'(  \`._____.-'"'         Hobbies.Music: .......... Vocaloid, Doo-wop
+             ;,   ;  `.  `. `._`-.  \\            
+             ;:.  ;:       `-._`-.\  \`.            Contact -------------------------------------------
+              '`:. :        |' `. `\  ) \           LinkedIn: ............... anthonybolivar
+                 ` ;:       |    `--\__,'           Email: .................. tony.e.bolivar@gmail.com
+                   '`      ,'                     
+                        ,-'                       
+```
 
-<!--
-**tonybolivar/tonybolivar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Tony Bolivar
 
-Here are some ideas to get you started:
+CS at Colgate. First-gen from Texas. I like building things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now, my main project is something called **EU4-Haven**, a reinforcement learning agent for Europa Universalis IV. The repo is hidden, for now. It involves reverse engineering the game binary with Ghidra, injecting a C++ DLL, behavioral cloning on thousands of expert save files, and a PPO training pipeline. It's around 28,000 lines and growing. Probably the most invested I've been in building anything, ever.
+
+Other stuff I've built:
+
+- **Raider Marketplace** · Student peer-to-peer marketplace, live on web and iOS at [raidermarketplace.com](https://raidermarketplace.com). Co-founded with a friend, registered LLC with grant funding.
+- **Shapes & States** · Voronoi-based political map generator with terrain-weighted pathfinding over a massive raster grid. Started as a D&D worldbuilding tool.
+
+I write a lot of Python and C++, some TypeScript when the project calls for it. Currently interested in RL, reverse engineering, and figuring out how to get neural networks to play strategy games.
+
+Heading to Seoul (Yonsei University) in Fall 2026.
+
+[Website](http://www.anthonybolivar.com) · [LinkedIn](https://www.linkedin.com/in/anthonybolivar) · [Email](mailto:tony.e.bolivar@gmail.com)
