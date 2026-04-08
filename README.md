@@ -27,8 +27,6 @@
 
 CS at Colgate. First-gen from Texas. I like building things.
 
-Right now, my main project is something called **EU4-Haven**, a reinforcement learning agent for Europa Universalis IV. The repo is hidden, for now. It involves reverse engineering the game binary with Ghidra, injecting a C++ DLL, behavioral cloning on thousands of expert save files, and a PPO training pipeline. It's around 28,000 lines and growing. Probably the most invested I've been in building anything, ever.
-
 Other stuff I've built:
 
 - **Raider Marketplace** · Student peer-to-peer marketplace, live on web and iOS at [raidermarketplace.com](https://raidermarketplace.com). Co-founded with a friend, registered LLC with grant funding.
