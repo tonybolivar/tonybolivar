@@ -32,7 +32,7 @@ Other stuff I've built:
 - **Raider Marketplace** · Student peer-to-peer marketplace, live on web and iOS at [raidermarketplace.com](https://raidermarketplace.com). Co-founded with a friend, registered LLC with grant funding.
 - **Shapes & States** · Voronoi-based political map generator with terrain-weighted pathfinding over a massive raster grid. Started as a D&D worldbuilding tool.
 
-I write a lot of Python and C++, some TypeScript when the project calls for it. Currently interested in RL, reverse engineering, and figuring out how to get neural networks to play strategy games.
+I write a lot of Python and Typescript, some C++. Currently interested in RL, reverse engineering, and figuring out how to get neural networks to play strategy games.
 
 Heading to Seoul (Yonsei University) in Fall 2026.
 
