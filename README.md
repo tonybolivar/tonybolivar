@@ -29,7 +29,7 @@ CS at Colgate. First-gen from Texas. I like building things.
 
 Other stuff I've built:
 
-- **Raider Marketplace** · Student peer-to-peer marketplace, live on web and iOS at [raidermarketplace.com](https://raidermarketplace.com). Co-founded with a friend, registered LLC with grant funding.
+- **Raider Marketplace** · Student peer-to-peer marketplace, live on web [web is down due to cease and desist from Colgate.. working on approval ;( ]  and iOS at [raidermarketplace.com](https://raidermarketplace.com). Co-founded with a friend, registered LLC with grant funding.
 - **Shapes & States** · Voronoi-based political map generator with terrain-weighted pathfinding over a massive raster grid. Started as a D&D worldbuilding tool.
 
 I write a lot of Python and Typescript, some C++. Currently interested in RL, reverse engineering, and figuring out how to get neural networks to play strategy games.
