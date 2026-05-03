@@ -10,11 +10,11 @@
           \ `-. :  `    :.    `.  \                 Languages.Code: ......... Python, C++, TypeScript
            \   \    ,   ;   ,:    (\                Languages.Human: ........ English, Spanish, Japanese, Korean
             \   :., :.    ,'o)): ` `-.            
-           ,/,' ;' ,::"'`.`---'   `.  `-._          Projects.Main: .......... EU4-Haven (RL agent for EU4)
+           ,/,' ;' ,::"'`.`---'   `.  `-._          Projects.Main: .......... EU4-Haven
          ,/  :  ; '"      `;'          ,--`.        Projects.Startup: ....... Raider Marketplace
-        ;/   :; ;             ,:'     (   ,:)       Projects.Fun: ........... Shapes & States
+        ;/   :; ;             ,:'     (   ,:)       Projects.Fun: ........... Shapes & States, other npm packages of mine...
           ,.,:.    ; ,:.,  ,-._ `.     \""'/      
-          '::'     `:'`  ,'(  \`._____.-'"'         Hobbies.Music: .......... Vocaloid, Doo-wop
+          '::'     `:'`  ,'(  \`._____.-'"'         Hobbies.Music: .......... Vocaloid
              ;,   ;  `.  `. `._`-.  \\            
              ;:.  ;:       `-._`-.\  \`.            Contact -------------------------------------------
               '`:. :        |' `. `\  ) \           LinkedIn: ............... anthonybolivar
@@ -29,10 +29,10 @@ CS at Colgate. First-gen from Texas. I like building things.
 
 Other stuff I've built:
 
-- **Raider Marketplace** · Student peer-to-peer marketplace, live on web [web is down due to cease and desist from Colgate.. working on approval ;( ]  and iOS at [raidermarketplace.com](https://raidermarketplace.com). Co-founded with a friend, registered LLC with grant funding.
+- **@Raider Marketplace** · Student peer-to-peer marketplace, live on web [web is down due to cease and desist from Colgate.. working on approval ;( ]  and iOS at [raidermarketplace.com](https://raidermarketplace.com). Co-founded with a friend, registered LLC with grant funding.
 - **Shapes & States** · Voronoi-based political map generator with terrain-weighted pathfinding over a massive raster grid. Started as a D&D worldbuilding tool.
 
-I write a lot of Python and Typescript, some C++. Currently interested in RL, reverse engineering, and figuring out how to get neural networks to play strategy games.
+I write a lot of Python and Typescript, some C++. 
 
 Heading to Seoul (Yonsei University) in Fall 2026.
 
