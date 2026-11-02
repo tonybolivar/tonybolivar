@@ -5,7 +5,7 @@
         / `-.              /: : |                   OS: ..................... Colgate University
        |  ,-.\`-.          ,': : |                   Uptime: ................. 20 years
         \ :  `. `.       ,'-. : |                   Major: .................. CS + Mathematics
-         \ ;    ;  `-.__,'    `-.|                   Focus: .................. Systems, ML, Roblox, RE
+         \ ;    ;  `-.__,'    `-.|                   Focus: .................. Systems, ML, RE
           \ ;   ;  :::  ,::'`:.  `.                
            \ `-. :  `    :.    `.  \                 Languages.Code: ......... Python, C++, TypeScript, Luau
             \   \    ,   ;   ,:    (                Languages.Human: ........ English, Spanish, Japanese, Korean
@@ -26,8 +26,6 @@
 # Anthony Bolivar
 
 CS + Math at Colgate University. First-gen from Texas. Currently studying abroad at Yonsei University in Seoul.
-
-Recently, I've been exploring the limits of the **Roblox engine**.
 
 Some things I've built:
 
